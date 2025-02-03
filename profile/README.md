@@ -1,7 +1,7 @@
 # Algorithm & CS
 - 2025.02.03 ~
 
-## 💻Algorithm
+## 💻[Algorithm](https://github.com/AlgorithmWithGod/Algorithm)
 ### 목표
 골드 랜덤 디펜스 보고 알고리즘 유추할 수 있게 되기
 
@@ -9,7 +9,7 @@
 1. 하루 최소 1문제 이상 도전해본다.
 2. 성공한 경우 어떠한 방식으로 접근했는지, 실패한 경우 왜 실패했는지를 PR에 작성한다.
    
-## 📘CS
+## 📘[CS](https://github.com/AlgorithmWithGod/CS)
 1. 각자 필요한 CS 파트 공부 후 정리한다.
 
 ## 👥 스터디 멤버
